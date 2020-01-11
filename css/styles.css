@@ -345,7 +345,8 @@ em {
 
 audio {
   position: absolute;
-  right: 0;
+  right: 50px;
+  top: 1%;
   transform: scale(0.9);
 }
 /* Media Queries */
